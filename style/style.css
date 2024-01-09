@@ -93,15 +93,7 @@ nav .navbar li a:hover{
     background: rgba(24, 1, 22, 0);
     cursor: pointer;
 }
-.idioma .gtranslate_wrapper{
-    border: 0;
-    outline: none;
-    color: #ffffffdc;
-    font-size: 18px;
-    background: rgba(24, 1, 22, 0);
-    margin-right: 30px;
-    cursor: pointer;
-}
+
 option{
     background-color:#0000008f;
     opacity: 10%;
@@ -248,11 +240,11 @@ option{
         display: block;
     }
     nav .navbar li{
-        margin-left:50px;
+        margin-left: 5px;
         text-align: justify;
     }
     #option{
-        margin-left:75px;
+        margin-left:30px;
         text-align:justify;
     }
     .success menu .logo h1{
